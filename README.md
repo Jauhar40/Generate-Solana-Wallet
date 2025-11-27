@@ -1,7 +1,7 @@
 Solana Wallet Generator
 Script Node.js untuk generate multiple Solana wallet secara otomatis dengan mnemonic phrase dan private key.
-Fitur
 
+Fitur
 Generate multiple wallet sekaligus
 Mendukung derivation path standar Phantom (m/44'/501'/x'/0')
 Export dalam berbagai format (Base58, Array, Mnemonic)
